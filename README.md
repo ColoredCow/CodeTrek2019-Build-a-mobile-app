@@ -1,4 +1,4 @@
-# React-native-CodeTrek
+# CodeTrek2019-Build-a-mobile-app
 
 ## How to participate and share your progress during sessions
 1. Check in every morning during a session for a fresh exercise. You need to go to the issues tab and look for something like `Day 2 at Developing Interfaces`.
