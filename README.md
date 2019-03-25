@@ -9,7 +9,7 @@
     2. What are the things you missed? What are the things you put extra?
 4. If you think you are way behind and cannot catch up before next exercise begins, you can use the code provided to start the next exercise. Make sure you come back and complete your code after the session.
 
-## Session 1 – Introduction to Mobile Development and setup the system
+## Day 1 – Introduction to Mobile Development and setup the system
 Helpful links:
 
 1. [Install Sublime Text](https://www.sublimetext.com/)
@@ -20,14 +20,14 @@ Helpful links:
 6. [Learn about ES6](https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2)
 
 
-## Session 2 – Basic terminology and react native life cycle 
+## Day 2 – Basic terminology and react native life cycle 
 Helpful links:
 
 1. [React Native styling and workflow](https://getbootstrap.com/docs/4.1/getting-started/download/)
 2. [React native networking](https://facebook.github.io/react-native/docs/network)
 
 
-## Session 3 – The complete workflow with rest api integration.
+## Day 3 – The complete workflow with rest api integration.
 Helpful links:
 1. [Laravel Official Docs](https://laravel.com/docs/5.7)
 2. Learn react native basic terminology : [React basics](https://www.youtube.com/watch?v=6ZnfsJ6mM5c)
