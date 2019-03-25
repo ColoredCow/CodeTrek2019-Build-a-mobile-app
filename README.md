@@ -16,21 +16,18 @@ Helpful links:
 2. [Install Git command line tools](https://git-scm.com/downloads)
 3. [Install WAMP server](http://www.wampserver.com/en/)
 4. [Read about Git and Github](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
+5. [Read about React Native](https://facebook.github.io/react-native/)
+6. [Learn about ES6](https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2)
 
 
 ## Session 2 – Basic terminology and react native life cycle 
 Helpful links:
 
-1. [Download Bootstrap4 compiled CSS and JS](https://getbootstrap.com/docs/4.1/getting-started/download/)
-2. [Download jQuery uncompressed, production 3.3.1](https://jquery.com/download/)
-3. [How to use FontAwesome icons](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css)
-4. [JavaScript onclick events](https://www.w3schools.com/jsref/event_onclick.asp)
-5. [JavaScript innerHTML property](https://www.w3schools.com/jsref/prop_html_innerhtml.asp)
-6. [Create a CodePen account](https://codepen.io)
+1. [React Native styling and workflow](https://getbootstrap.com/docs/4.1/getting-started/download/)
+2. [React native networking](https://facebook.github.io/react-native/docs/network)
+
 
 ## Session 3 – The complete workflow with rest api integration.
 Helpful links:
-
 1. [Laravel Official Docs](https://laravel.com/docs/5.7)
-2. Complete the Laracasts series: [Laravel from Scratch](https://laracasts.com/series/laravel-from-scratch-2018)
-3. Laravel News: [Creating your first Laravel application](https://laravel-news.com/your-first-laravel-application)
+2. Learn react native basic terminology : [React basics](https://www.youtube.com/watch?v=6ZnfsJ6mM5c)
